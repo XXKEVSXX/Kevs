@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: none;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+
+ 
+p{
+    font-size: 10px;
+    line-height: 9.5px;
+    background: url(pic2.jpeg);
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-position: top;
+    letter-spacing: 0.5px;
+}
+
+
+/*body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    font-family: 'Poppins', sans-serif;
+    font-family: none;
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+p {
+    font-size: 10px;
+    /*font-weight: 100px;*/
+  /*  border: 10px solid transparent;
+     padding: 15px; */
+   /* line-height: 9.5px;
+    text-align: justify;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background: url(pic2.jpeg) no-repeat center;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
